@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "Software Engineer with experience in Natural Language Processing"
   location         : "Rostock, Germany"
-  employer         :  "PlanetAI"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         :  
+  pubmed           : 
+  googlescholar    : 
   email            :  "dipendrayadaveee at gmail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dipendra-yadav-eee/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
